@@ -1,0 +1,23 @@
+img.measurements{
+    position: fixed;
+    width: 20%;
+    left: 22%;
+    top: 28%;
+}
+img.quantities{
+    position: fixed;
+    width: 20%;
+    left: 55%;
+    top: 28%;
+}
+img.home{
+    width: 3%;
+}
+img.measurements2{
+    width: 3%;
+    opacity: 0.2;
+}
+img.quantities2{
+    width: 3%;
+    opacity: 0.2;
+}

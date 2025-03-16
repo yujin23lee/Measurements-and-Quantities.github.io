@@ -1,0 +1,49 @@
+img.home{
+    width: 3%;
+    opacity: 0.2;
+}
+img.measurements2{
+    width: 3%;
+    opacity: 0.2;
+}
+img.quantities2{
+    width: 3%;
+}
+#weight-display {
+    position: fixed;
+    top: 2%;
+    left: 48%;
+    background: white;
+    padding: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid white;
+ }
+ 
+   #drawing-canvas {
+    border: 1px solid white;
+    cursor: crosshair;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 1000px;
+    margin-top: 5%;
+
+  }
+   button {
+    position: fixed;
+    width: 5%;
+    top: 1%;
+    left: 95%;
+    background: white;
+    padding: 10px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    border: 1px solid white;
+    cursor: pointer;
+  }
+ .reset{
+    width: 70%;
+ }
